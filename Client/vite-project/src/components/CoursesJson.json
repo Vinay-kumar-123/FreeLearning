@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "DSA Full Course in Hindi",
+      "instructor": "Apna College",
+      "tags": ["DSA", "Hindi", "Beginner"],
+      "language": "Hindi",
+      "videoId": "RBSGKlAvoiM",
+      "thumbnail": "https://img.youtube.com/vi/RBSGKlAvoiM/maxresdefault.jpg",
+      "category": "DSA"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "instructor": "freeCodeCamp",
+      "tags": ["HTML", "CSS", "JavaScript", "English"],
+      "language": "English",
+      "videoId": "zJSY8tbf_ys",
+      "thumbnail": "https://img.youtube.com/vi/zJSY8tbf_ys/maxresdefault.jpg",
+      "category": "Web Development"
+    },
+    {
+      "id": 3,
+      "title": "Python for Beginners in Hindi",
+      "instructor": "CodeWithHarry",
+      "tags": ["Python", "Hindi", "Beginner"],
+      "language": "Hindi",
+      "videoId": "gfDE2a7MKjA",
+      "thumbnail": "https://img.youtube.com/vi/gfDE2a7MKjA/maxresdefault.jpg",
+      "category": "Python"
+    },
+    {
+      "id": 4,
+      "title": "Machine Learning Full Course",
+      "instructor": "Simplilearn",
+      "tags": ["ML", "AI", "English"],
+      "language": "English",
+      "videoId": "GwIo3gDZCVQ",
+      "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
+      "category": "AI/ML"
+    }
+  ]
+  
